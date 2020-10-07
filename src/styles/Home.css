@@ -1,0 +1,16 @@
+.home-container{
+    margin: 10px 140px 10px 140px;
+    background-color: pink;
+}
+
+.section-wrapper{
+    display: flex;
+}
+
+.logo{
+    align-items: center;
+    color:'black';
+    justify-content: center;
+    font-size: large;
+    font-weight: bold;
+}

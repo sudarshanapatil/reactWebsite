@@ -1,0 +1,11 @@
+.right-wrapper{
+    width: 30%;
+    margin: 20px;
+    /* height: 600px; */
+    background-color: 'lightblue'
+}
+
+.right-info{ 
+    padding: 20;
+    text-align: 'justify';
+}
